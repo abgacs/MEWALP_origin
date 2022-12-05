@@ -88,7 +88,6 @@ tinycss2==1.1.1
 tomlkit==0.11.1
 traittypes==0.2.1
 virtualenv==20.16.3
-voila==0.3.5
 webencodings==0.5.1
 websockets==10.3
 win-unicode-console==0.5

@@ -25,4 +25,8 @@ dependencies:
     - scipy
     - ipywidgets
     - ipydatetime
+    - bqplot
+    - ipympl
+    - ipyvolume
+    - voila
 prefix: C:\Users\Asus\anaconda3
