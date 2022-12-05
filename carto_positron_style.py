@@ -35,7 +35,7 @@ def cartop_mapbox():
         rows=3
     )
 
-    df = pd.read_csv(r"C:\Users\Asus\Desktop\Lipo.Master.Data.csv")
+    df = pd.read_csv("Lipo.Master.Data.csv")
     #df = pd.read_csv("Lipo.Master.Data.csv")
     #df = pd.read_csv("/home/frakesmart/Desktop/LIPO/june_15_16_17_JULY_17.csv")
 
