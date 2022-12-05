@@ -23,6 +23,7 @@ dependencies:
     - pandas
     - numpy
     - scipy
+    - nbinteract
     - ipywidgets
     - ipydatetime
     - bqplot
