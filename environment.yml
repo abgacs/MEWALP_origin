@@ -17,7 +17,7 @@ dependencies:
   - cartopy
   - jupyterlab==3.4.4
   - notebook==6.4.12
- pip:
+  - pip:
     - plotly
     - seaborn
     - pandas
