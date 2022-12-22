@@ -1209,5 +1209,5 @@ def densityplot():
             plotout_1.close()
             display(plottype)
 
-    display(plotout,plotui,plotout_1,plotui_1)
+    display(plotout_1,plotui_1)
     
